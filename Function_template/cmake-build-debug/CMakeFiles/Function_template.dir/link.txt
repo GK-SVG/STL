@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Function_template.dir/main.cpp.o  -o Function_template 

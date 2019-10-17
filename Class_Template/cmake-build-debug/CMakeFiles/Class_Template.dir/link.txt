@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Class_Template.dir/main.cpp.o  -o Class_Template 
